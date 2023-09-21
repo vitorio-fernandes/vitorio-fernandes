@@ -15,11 +15,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vitorio-fernandes&show_icons=true" />
 </picture>
 
+<div>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorio-fernandes&layout=compact&hide_border=true&title_color=328da8&text_color=ededed&bg_color=0d1117"/>
+</div>
+
+
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Vitorio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vitorio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Vitorio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
 </div>
 
