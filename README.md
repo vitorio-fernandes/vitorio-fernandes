@@ -1,38 +1,14 @@
-### Olá eu sou Vitório Fernandes
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B8C6E&height=120&section=header"/>
 
-- 💬 Sou estudante de Sistemas de Informação da UPE - Caruaru
-- 👯 Gosto de trabalhar em equipe
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89D99D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Vitório+Fernandes!)](https://git.io/typing-svg)
+<p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vitorio-fernandes&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vitorio-fernandes&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorio-fernandes&show_icons=true" />
-</picture>
-
-<div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorio-fernandes&layout=compact&hide_border=true&title_color=328da8&text_color=ededed&bg_color=0d1117"/>
+<div align="center">
+ 
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorio-fernandes&show_icons=true&count_private=true&hide_border=true&title_color=3B8C6E&icon_color=328da8&text_color=dedede&bg_color=0d1117" alt="Vitório github stats" /> 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorio-fernandes&layout=compact&hide_border=true&title_color=3B8C6E&text_color=ededed&bg_color=0d1117" />
 </div>
 
+<br>
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Vitorio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitorio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Vitorio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-
-</div>
-
-##
-
-<div>
-  <a href="https://www.instagram.com/vitoriofernandes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vitoriofernandes593@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitório-fernandes-48528620b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B8C6E&height=120&section=footer"/></br>
