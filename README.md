@@ -6,9 +6,9 @@
 
 - 🌱 Estou aprendendo **Spring Boot and Node.js**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/vitorio-fernandes](https://github.com/vitorio-fernandes)
+- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/vitorio-fernandes](https://github.com/vitorio-fernandes)
 
-- 📫 Como me contatar **vitoriofernandes593@gmail.com**
+- 📫 Como me contatar: **vitoriofernandes593@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -25,6 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorio-fernandes&show_icons=true&locale=en&layout=compact" alt="vitorio-fernandes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorio-fernandes&show_icons=true&locale=en" alt="vitorio-fernandes" /></p>
-<!--!>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorio-fernandes&" alt="vitorio-fernandes" /></p>
+
 
