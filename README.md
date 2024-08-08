@@ -25,6 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorio-fernandes&show_icons=true&locale=en&layout=compact" alt="vitorio-fernandes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorio-fernandes&show_icons=true&locale=en" alt="vitorio-fernandes" /></p>
-
+<!--!>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorio-fernandes&" alt="vitorio-fernandes" /></p>
 
