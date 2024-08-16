@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorio-fernandes&label=Profile%20views&color=0e75b6&style=flat" alt="vitorio-fernandes" /> </p>
 
-- 🌱 Estou aprendendo **Spring Boot and Node.js**
+- 🌱 Estou aprendendo me aperfeiçoando em **Spring Boot and Node.js**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/vitorio-fernandes](https://github.com/vitorio-fernandes)
 
