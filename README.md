@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Vitório Fernandes</h1>
-<h3 align="center">Etudante de Sistemas de Informação na Universidade de Pernambuco (UPE) </h3>
+<h3 align="center">Estudante de Sistemas de Informação na Universidade de Pernambuco (UPE) </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorio-fernandes&label=Profile%20views&color=0e75b6&style=flat" alt="vitorio-fernandes" /> </p>
